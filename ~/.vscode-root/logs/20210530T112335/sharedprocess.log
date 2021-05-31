@@ -1,0 +1,19 @@
+[2021-05-30 11:23:50.919] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-05-30 11:23:53.902] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/lhackdev/AngularProjects/platzi-store/~/.vscode-root/CachedExtensionVSIXs/pkief.material-icon-theme-4.7.0
+[2021-05-30 11:23:54.724] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ad5620d1-5d65-41b6-b653-832aeb6b02e1: pkief.material-icon-theme
+[2021-05-30 11:23:54.789] [sharedprocess] [info] Renamed to /root/.vscode/extensions/pkief.material-icon-theme-4.7.0
+[2021-05-30 11:23:54.799] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-05-30 11:23:54.855] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-05-30 11:24:15.265] [sharedprocess] [info] Installing extension: angular.ng-template
+[2021-05-30 11:24:17.287] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-30 11:24:57.103] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/lhackdev/AngularProjects/platzi-store/~/.vscode-root/CachedExtensionVSIXs/angular.ng-template-12.0.3
+[2021-05-30 11:24:58.106] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.25321172-a3f3-4a7e-9e27-260e04dc5028: angular.ng-template
+[2021-05-30 11:24:58.194] [sharedprocess] [info] Renamed to /root/.vscode/extensions/angular.ng-template-12.0.3
+[2021-05-30 11:24:58.198] [sharedprocess] [info] Installation completed. angular.ng-template
+[2021-05-30 11:24:58.242] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
+[2021-05-30 11:25:01.558] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-tslint-plugin
+[2021-05-30 11:25:04.311] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-tslint-plugin /home/lhackdev/AngularProjects/platzi-store/~/.vscode-root/CachedExtensionVSIXs/ms-vscode.vscode-typescript-tslint-plugin-1.3.3
+[2021-05-30 11:25:04.516] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.2ff51fc8-e32a-4bbe-b58e-db986cd7f3b6: ms-vscode.vscode-typescript-tslint-plugin
+[2021-05-30 11:25:04.558] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.3.3
+[2021-05-30 11:25:04.568] [sharedprocess] [info] Installation completed. ms-vscode.vscode-typescript-tslint-plugin
+[2021-05-30 11:25:04.617] [sharedprocess] [info] Extensions installed successfully: ms-vscode.vscode-typescript-tslint-plugin
