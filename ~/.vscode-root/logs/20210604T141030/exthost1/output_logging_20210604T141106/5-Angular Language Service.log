@@ -1,0 +1,51 @@
+[Info  - 2:11:07 p. m.] Angular language server process ID: 51822
+[Info  - 2:11:07 p. m.] Using typescript/lib/tsserverlibrary v4.2.4 from /root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 2:11:07 p. m.] Using @angular/language-service v12.0.2 from /root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/index.js
+[Info  - 2:11:07 p. m.] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 2:11:12 p. m.] Enabling Ivy language service for /home/lhackdev/AngularProjects/platzi-store/tsconfig.json.
+[Error - 2:12:18 p. m.] No config file for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.html
+[Error - 2:13:24 p. m.] No config file for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.html
+[Error - 2:13:25 p. m.] Script info not found for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products/products.component.ts
+[Error - 2:13:40 p. m.] No config file for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+(node:51822) UnhandledPromiseRejectionWarning: Error: Failed to get script snapshot while trying to read /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.html
+    at LanguageServiceAdapter.readResource (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:39330:23)
+    at AdapterResourceLoader.load (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:30880:69)
+    at ComponentDecoratorHandler.extractTemplate (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:28778:61)
+    at ComponentDecoratorHandler.updateResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:28538:42)
+    at TraitCompiler.updateResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:24372:31)
+    at /root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37938:52
+    at ActivePerfRecorder.inPhase (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:23721:24)
+    at NgCompiler.updateWithChangedResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37921:26)
+    at Function.fromTicket (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37902:30)
+    at CompilerFactory.getOrCreate (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:39432:48)
+(Use `code --trace-warnings ...` to show where the warning was created)
+(node:51822) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:51822) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:51822) UnhandledPromiseRejectionWarning: Error: Failed to get script snapshot while trying to read /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.html
+    at LanguageServiceAdapter.readResource (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:39330:23)
+    at AdapterResourceLoader.load (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:30880:69)
+    at ComponentDecoratorHandler.extractTemplate (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:28778:61)
+    at ComponentDecoratorHandler.updateResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:28538:42)
+    at TraitCompiler.updateResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:24372:31)
+    at /root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37938:52
+    at ActivePerfRecorder.inPhase (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:23721:24)
+    at NgCompiler.updateWithChangedResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37921:26)
+    at Function.fromTicket (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37902:30)
+    at CompilerFactory.getOrCreate (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:39432:48)
+(node:51822) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:51822) UnhandledPromiseRejectionWarning: Error: Failed to get script snapshot while trying to read /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.html
+    at LanguageServiceAdapter.readResource (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:39330:23)
+    at AdapterResourceLoader.load (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:30880:69)
+    at ComponentDecoratorHandler.extractTemplate (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:28778:61)
+    at ComponentDecoratorHandler.updateResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:28538:42)
+    at TraitCompiler.updateResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:24372:31)
+    at /root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37938:52
+    at ActivePerfRecorder.inPhase (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:23721:24)
+    at NgCompiler.updateWithChangedResources (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37921:26)
+    at Function.fromTicket (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:37902:30)
+    at CompilerFactory.getOrCreate (/root/.vscode/extensions/angular.ng-template-12.0.3/node_modules/@angular/language-service/bundles/ivy.js:39432:48)
+(node:51822) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+[Error - 2:13:59 p. m.] No config file for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+[Error - 2:14:12 p. m.] No config file for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+[Error - 2:14:16 p. m.] No config file for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+[Error - 2:14:19 p. m.] No config file for /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html

@@ -1,0 +1,691 @@
+Looking for git in: git
+Using git 2.30.2 from git
+> git rev-parse --git-dir
+Open repository: /home/lhackdev/AngularProjects/platzi-store
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.component.html
+> git cat-file -s 39a0bce39e148c4cabce4bf98dbedf2b7a956c52
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.component.html
+> git cat-file -s 39a0bce39e148c4cabce4bf98dbedf2b7a956c52
+> git show --textconv :src/app/product/components/product/product.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/product/components/products/products.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products/products.component.html
+> git show --textconv :src/app/product/components/products-list/products.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.scss
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products.component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.spec.ts
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/home/home.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/home/home.module.ts
+> git cat-file -s bd39f7329a2b5b18e224645f129044e50eb6d222
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/components/product/product.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git show --textconv :src/app/home/home-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/home/home-routing.module.ts
+> git cat-file -s 58d510ad4491072e6502b40febabe2495de68d7f
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/product/product.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.html
+> git show --textconv :src/app/product/components/product/product.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.component.ts
+> git cat-file -s 933e1dcb7d3fd3669d4fea6efaed6aaf90dc2c13
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.module.ts
+> git cat-file -s 6f29af59990b5140bb624efaadf7033b23b1eb39
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app-routing.module.ts
+> git cat-file -s 0a5bfd9311bccd831bc56689a5823f67b2618f98
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/home/home-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/home/home-routing.module.ts
+> git cat-file -s 58d510ad4491072e6502b40febabe2495de68d7f
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app-routing.module.ts
+> git cat-file -s 0a5bfd9311bccd831bc56689a5823f67b2618f98
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/home/home-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/home/home-routing.module.ts
+> git cat-file -s 58d510ad4491072e6502b40febabe2495de68d7f
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.component.ts
+> git cat-file -s 933e1dcb7d3fd3669d4fea6efaed6aaf90dc2c13
+> git show --textconv :src/app/core/service/products/products.service.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/core/service/products/products.service.ts
+> git cat-file -s 2582ccf6319e24177239beb6554b27a4944d8a72
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.component.ts
+> git cat-file -s 933e1dcb7d3fd3669d4fea6efaed6aaf90dc2c13
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.component.ts
+> git cat-file -s 933e1dcb7d3fd3669d4fea6efaed6aaf90dc2c13
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.html
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.scss
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.spec.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/product/product.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.html
+> git show --textconv :src/app/product/components/product/product.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.scss
+> git show --textconv :src/app/product/components/product/product.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.html
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.scss
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.spec.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.module.ts
+> git cat-file -s 6f29af59990b5140bb624efaadf7033b23b1eb39
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app-routing.module.ts
+> git cat-file -s 0a5bfd9311bccd831bc56689a5823f67b2618f98
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product-routing.module.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.module.ts
+> git cat-file -s 6f29af59990b5140bb624efaadf7033b23b1eb39
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app-routing.module.ts
+> git cat-file -s 0a5bfd9311bccd831bc56689a5823f67b2618f98
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list..component.spec.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list..component.spec.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.html
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.html
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.scss
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.scss
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/models/product.model.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/models/product.model.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/product/product.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.ts
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/product/product.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/product.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/app.module.ts
+> git cat-file -s 6f29af59990b5140bb624efaadf7033b23b1eb39
+> git show --textconv :src/app/product/components/products-list/products-list.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/products-list/products-list.component.ts
+> git show --textconv :src/app/product/components/product/product.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product/product.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/components/product-detail/product-detail.component.ts
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/src/app/product/components/product-detail/product-detail.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :tsconfig.json
+> git ls-files --stage -- /home/lhackdev/AngularProjects/platzi-store/tsconfig.json
+> git cat-file -s 453e34c2614f3f3c77795590376b2a589de1c9ff
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
