@@ -7,6 +7,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { HighligthDirective } from './directives/highligth/highligth.directive';
 import { ExponentialPipe } from './pipes/exponential/exponential.pipe';
 import { RouterModule } from '@angular/router';
+import { MaterialModule } from '../material/material.module';
 
 
 
@@ -15,7 +16,7 @@ import { RouterModule } from '@angular/router';
     ExponentialPipe,
     HighligthDirective,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
   ],
   exports: [
     ExponentialPipe,
@@ -25,7 +26,8 @@ import { RouterModule } from '@angular/router';
   ],
   imports: [
     CommonModule,
-    RouterModule
+    RouterModule,
+    MaterialModule
   ]
 })
 export class SharedModule { }
